@@ -1,7 +1,7 @@
 # WWW2025 challenge- Brick By Brick 2024
 
 
-## Requirements
+## Team onfo
 
 1. **Team Name**: yddm. 
 
